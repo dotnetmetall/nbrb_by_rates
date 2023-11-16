@@ -1,0 +1,8 @@
+android/.DS_Store
+build
+ios/.DS_Store
+ios/Runner/.DS_Store
+lib/src/.DS_Store
+lib/.DS_Store
+.DS_Store
+pubspec.lock
